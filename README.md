@@ -12,11 +12,11 @@ _Estos scripts fueron elaborados a lo largo del curso de Laboratorio de Programa
 ## Construido con 🛠️
 _Se utilizaron las siguientes documentaciones_
 * [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
-* [Shodan](https://shodan.readthedocs.io/en/latest/)
 * [Nmap](https://nmap.org/book/port-scanning-options.html)
-* [smptlib](https://docs.python.org/3/library/smtplib.html)
-* [ssl](https://docs.python.org/3/library/ssl.html)
-* [subprocess](https://docs.python.org/3/library/subprocess.html)
+* [Argparse](https://docs.python.org/3/library/argparse.html)
+* [Requests](https://realpython.com/python-requests/)
+* [CSV](https://docs.python.org/3/library/csv.html)
+* [Tkinter](https://docs.python.org/es/3/library/tkinter.html)
 
 ## Autor ✒️
 * **Jelmy Gerardo LG** - [JelmyLG](https://github.com/JelmyLG)
