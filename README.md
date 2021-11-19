@@ -4,7 +4,7 @@ Este repositorio contiene:
   - El script (BASH)
   - El script de webscraping
   - El script de escaner de puertos
-  - El script de Python
+  - El script de creacion de ejecutables
   
 ## Descripción 🚀
 _Estos scripts fueron elaborados a lo largo del curso de Laboratorio de Programación para Ciberseguridad._
