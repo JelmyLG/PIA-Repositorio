@@ -13,16 +13,16 @@ _Estos scripts fueron elaborados a lo largo del curso de Laboratorio de Programa
 _Script desarrollado en PowerShell con la finalidad de desplegar un menú que escanea toda la subred, escanea los puertos para un equipo y escanea todos los equipos que estén activos en la red._
 
 ## Tarea-3-Bash
-_Script desarrollada en Bash con la finalidad de imprimir en pantalla un menú de opciones, las cuales tienen como objetivo detectar equipos activos en la red, detecte puertos abiertos en un equipo en particular e imprima el Username, Hostname y el tipo de sistema operativo._
+_Script desarrollado en Bash con la finalidad de imprimir en pantalla un menú de opciones, las cuales tienen como objetivo detectar equipos activos en la red, detecte puertos abiertos en un equipo en particular e imprima el Username, Hostname y el tipo de sistema operativo._
 
 ## Tarea-4-WebScraping
-_Script desarrollada en Python con la finalidad de recopilar información mediante webscraping, utilizando BeautifulSoup, para poder recopilar información de la página "https://realpython.github.io/fake-jobs/" para después guardarla en un archivo .csv_
+_Script desarrollado en Python con la finalidad de recopilar información mediante webscraping, utilizando BeautifulSoup, para poder recopilar información de la página "https://realpython.github.io/fake-jobs/" para después guardarla en un archivo .csv_
 
 ## Tarea-6-EscaneoDePuertos
-_Script desarrollada en Python con la finalidad de escanear puertos mediante el uso de python-nmap_
+_Script desarrollado en Python con la finalidad de escanear puertos mediante el uso de python-nmap._
 
 ## Tarea-8-CreacionDeEjecutables
-_Script desarrollada en Python con la finalidad de crear ejecutables mediante el uso de Tkinter_
+_Script desarrollado en Python con la finalidad de crear ejecutables mediante el uso de Tkinter._
 
 ## Construido con 🛠️
 _Se utilizaron las siguientes documentaciones_
