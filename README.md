@@ -11,6 +11,7 @@ _Estos scripts fueron elaborados a lo largo del curso de Laboratorio de Programa
 
 ## Construido con 🛠️
 _Se utilizaron las siguientes documentaciones_
+* [PowerShell](https://github.com/yvinzo/PShell)
 * [BeautifulSoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
 * [Nmap](https://nmap.org/book/port-scanning-options.html)
 * [Argparse](https://docs.python.org/3/library/argparse.html)
